@@ -1,0 +1,1 @@
+web: gunicorn Ezra_Disease_Predictor.wsgi --log-file -
